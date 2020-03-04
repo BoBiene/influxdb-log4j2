@@ -21,4 +21,4 @@ jobs:
         # Artifact name
         name: build
         # Directory containing files to upload
-        path: influxdb-log4j2/target
+        path: target
